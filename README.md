@@ -1,6 +1,4 @@
-# Hi, I'm Trish! :)
-
-I'm a molecular biologist and I like creating fun stuff.
-<br>Currently learning Go by doing small projects and Python through Rosalind.
+# Hi, I'm Trish!
+I like doing fun stupid stuff :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/triciamaynes/)
